@@ -12,7 +12,7 @@ from rich.layout import Layout
 # Get free keys from https://www.abuseipdb.com/ and https://account.shodan.io/
 ABUSE_IPDB_KEY = "" 
 SHODAN_API_KEY = ""
-SHODAN_API_KE
+
 console = Console()
 
 def clear_screen():

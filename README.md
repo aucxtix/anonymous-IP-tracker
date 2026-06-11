@@ -197,7 +197,7 @@ This tool is intended strictly for:
 - Threat intelligence research
 - Authorized security testing
 
-Do NOT use this framework against systems without permission.
+Do NOT use this framework against systems without permission
 
 ---
 

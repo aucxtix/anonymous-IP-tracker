@@ -215,4 +215,4 @@ Do NOT use this framework against systems without permission
 
 # Author
 
-Developed for cybersecurity learning and OSINT research.
+Developed for cybersecurity learning and OSINT research. @aucxtix

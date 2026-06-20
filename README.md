@@ -14,7 +14,7 @@ This tool gathers public intelligence about an IP address using multiple threat 
 - ISP and ASN lookup
 - Proxy/VPN and hosting detection
 - AbuseIPDB threat scoring
-- Shodan reconnaissance integration
+- Shodan reconnaissance integration 
 - Rich terminal dashboard UI
 - Open ports and CVE visibility
 - Clean modular architecture

@@ -5,7 +5,7 @@ python-nmap
 geoip2
 pyOpenSSL
 python-whois
-dnspython
+dnspython 
 shodan
 pymisp
 colorama

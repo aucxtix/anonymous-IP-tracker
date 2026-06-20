@@ -1,4 +1,4 @@
-# Anonymous OSINT Framework v5.0
+## Anonymous OSINT Framework v5.0
 
 A terminal-based OSINT and reconnaissance framework built with Python.  
 This tool gathers public intelligence about an IP address using multiple threat intelligence sources while routing traffic through the Tor network for operational privacy.

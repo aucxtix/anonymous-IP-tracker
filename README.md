@@ -6,7 +6,7 @@ This tool gathers public intelligence about an IP address using multiple threat 
 > Educational and defensive security purposes only.
 
 ---
-
+ 
 # Features
 
 - Tor-based anonymous requests (SOCKS5)

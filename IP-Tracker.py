@@ -9,7 +9,8 @@ from rich.text import Text
 from rich.layout import Layout
  
 # --- API KEYS (Optional but Highly Recommended for Deep Recon) ---
-# Get free keys from https://www.abuseipdb.com/ and https://account.shodan.io/
+# Get free keys:
+ https://www.abuseipdb.com/ and https://account.shodan.io/
 ABUSE_IPDB_KEY = "" 
 SHODAN_API_KEY = ""
 

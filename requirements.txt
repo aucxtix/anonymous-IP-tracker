@@ -4,7 +4,7 @@ pysocks
 python-nmap
 geoip2
 pyOpenSSL
-python-whois
+python-whois 
 dnspython 
 shodan
 pymisp

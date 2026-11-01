@@ -76,7 +76,8 @@ def get_threat_intel(session, ip_address):
         resp = session.get(url, headers=headers, params=params, timeout=10)
         return resp.json().get('data', {})
     except Exception:
-        return {"error": "Connection Failed"}
+        return  
+{"error": "Connection Failed"}
 
 def get_shodan_recon(session, ip_address):
     """Fetches open ports and vulnerabilities from Shodan."""
